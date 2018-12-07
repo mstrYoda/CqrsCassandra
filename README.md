@@ -1,5 +1,5 @@
 # CqrsCassandra
-This repository contains CQRS approach implementation using Mediatr and Cassandra.
+This is an example repository to implement CQRS using Mediatr and Cassandra in .net core.
 
 ```
 docker pull cassandra
