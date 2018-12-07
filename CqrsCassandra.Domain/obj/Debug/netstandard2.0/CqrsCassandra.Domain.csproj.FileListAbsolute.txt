@@ -1,0 +1,8 @@
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\bin\Debug\netstandard2.0\CqrsCassandra.Domain.deps.json
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\bin\Debug\netstandard2.0\CqrsCassandra.Domain.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\bin\Debug\netstandard2.0\CqrsCassandra.Domain.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\obj\Debug\netstandard2.0\CqrsCassandra.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\obj\Debug\netstandard2.0\CqrsCassandra.Domain.AssemblyInfoInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\obj\Debug\netstandard2.0\CqrsCassandra.Domain.AssemblyInfo.cs
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\obj\Debug\netstandard2.0\CqrsCassandra.Domain.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Domain\obj\Debug\netstandard2.0\CqrsCassandra.Domain.pdb

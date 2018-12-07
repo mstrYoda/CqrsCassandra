@@ -1,0 +1,14 @@
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Application.deps.json
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Application.runtimeconfig.json
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Application.runtimeconfig.dev.json
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Application.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Application.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\obj\Debug\netcoreapp2.0\CqrsCassandra.Application.csproj.CoreCompileInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\obj\Debug\netcoreapp2.0\CqrsCassandra.Application.AssemblyInfoInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\obj\Debug\netcoreapp2.0\CqrsCassandra.Application.AssemblyInfo.cs
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\obj\Debug\netcoreapp2.0\CqrsCassandra.Application.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\obj\Debug\netcoreapp2.0\CqrsCassandra.Application.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Domain.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Infrastructure.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Domain.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Application\bin\Debug\netcoreapp2.0\CqrsCassandra.Infrastructure.pdb

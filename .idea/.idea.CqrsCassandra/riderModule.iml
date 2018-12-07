@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Domain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Infrastructure" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Application/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Application/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Domain/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Domain/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Infrastructure/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CqrsCassandra.Infrastructure/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CqrsCassandra.Domain\CqrsCassandra.Domain.csproj">
+      <Project>{A6C21477-EFEE-4B02-89B2-CDFA1B3FC095}</Project>
+      <Name>CqrsCassandra.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CassandraCSharpDriver" Version="3.7.0" />
+  </ItemGroup>
+</Project>

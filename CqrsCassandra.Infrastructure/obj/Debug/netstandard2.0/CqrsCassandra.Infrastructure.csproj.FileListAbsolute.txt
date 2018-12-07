@@ -1,0 +1,10 @@
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\bin\Debug\netstandard2.0\CqrsCassandra.Infrastructure.deps.json
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\bin\Debug\netstandard2.0\CqrsCassandra.Infrastructure.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\bin\Debug\netstandard2.0\CqrsCassandra.Infrastructure.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\obj\Debug\netstandard2.0\CqrsCassandra.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\obj\Debug\netstandard2.0\CqrsCassandra.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\obj\Debug\netstandard2.0\CqrsCassandra.Infrastructure.AssemblyInfo.cs
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\obj\Debug\netstandard2.0\CqrsCassandra.Infrastructure.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\obj\Debug\netstandard2.0\CqrsCassandra.Infrastructure.pdb
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\bin\Debug\netstandard2.0\CqrsCassandra.Domain.dll
+C:\Users\emre.savci\Desktop\projects\CqrsCassandra\CqrsCassandra.Infrastructure\bin\Debug\netstandard2.0\CqrsCassandra.Domain.pdb
